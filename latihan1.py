@@ -1,0 +1,11 @@
+print("Nama     : Angga M Gojali")
+print("NIM      : 312210030")
+print("Kelas    : TI.22.C1")
+
+print(len("hello word"))
+print("hello word"[-1])
+print("hello word"[2:5])
+print("hello word".upper())
+print("hello word".lower())
+print("hello word".replace("h", "J"))
+print()
